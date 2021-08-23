@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
-<h3 align="center">A passionate for programming and solve problems and a Vue/Linux Entusiast</h3>
+<h3 align="center">A passionate for programming and solve problems and a Linux Entusiast</h3>
 
 - 🔎 I’m currently working as **Front-End Trainee on Mundo Publico Solutions**
 
