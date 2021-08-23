@@ -3,7 +3,7 @@
 
 - 🔎 I’m currently working as **Front-End Trainee on Mundo Publico Solutions**
 
-- 📖 I’m currently learning **Node.Js, Type Script and Laravel**
+- 📖 I’m currently learning **Node.Js and Type Script**
 
 - 👨‍💻 All of my projects are available at [https://github.com/paulokmatos](https://github.com/paulokmatos)
 
