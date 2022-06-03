@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
 <h3 align="center">A passionate for programming and solve problems</h3>
 
-- 🔎 I’m currently working as **Front-End Developer on Mundo Publico Solutions**
+- 🔎 I’m currently working as **Freelancer Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/paulokmatos](https://github.com/paulokmatos)
 
